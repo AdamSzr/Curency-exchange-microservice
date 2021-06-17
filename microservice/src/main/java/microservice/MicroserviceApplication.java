@@ -1,4 +1,4 @@
-package curency.microservice;
+package microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
